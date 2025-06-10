@@ -27,11 +27,11 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener('DOMContentLoaded', function() {
     const typingText = document.getElementById('typingText');
     const texts = [
-        'QA Analyst & AI Specialist',
-        'Test Automation Expert',
-        'Cypress & Robot Framework',
-        'RAG Systems Developer',
-        'ERP Testing Specialist'
+        'Engenheiro de Dados & Especialista em Big Data',
+        'Automação de Pipelines de Dados',
+        'Power BI & Modelagem Dimensional',
+        'Azure Synapse & Delta Lake',
+        'Otimização de Processos ETL/ELT'
     ];
     
     let textIndex = 0;
