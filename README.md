@@ -16,32 +16,39 @@ Este portfólio tem como objetivo demonstrar minha expertise em Engenharia de Da
 -   **Experiência**: Breve histórico profissional e acadêmico relevante para a área de dados.
 -   **Contato**: Informações para facilitar a comunicação.
 
-## 🚀 Stacks e Tecnologias
-Minha experiência abrange um conjunto robusto de ferramentas e plataformas essenciais para a Engenharia de Dados:
+### Linguagens, Bibliotecas e Frameworks de Engenharia de Dados
 
-### Linguagens e Ferramentas de Programação
--   **Python**: Proficiência em desenvolvimento de scripts ETL/ELT, automação, manipulação e análise de dados (com bibliotecas como Pandas, NumPy).
--   **SQL**: Domínio avançado em SQL para consulta, manipulação e otimização de bancos de dados relacionais e data warehouses.
+-   **Linguagens de Programação:**
+    * **Python**: Pandas, NumPy, PySpark
+    * **SQL**: View, Modelagem de Dados, Otimização de Queries, (Stored Procedures, DDL, DML)
 
-### Plataformas e Serviços de Dados
--   **Databricks**: Experiência com o ecossistema Databricks (Delta Lake, Spark SQL, notebooks), construção e gerenciamento de pipelines de dados escaláveis na nuvem.
--   **Apache Spark**: Habilidade em processamento distribuído de grandes volumes de dados.
--   **Conceitos de Nuvem**: Familiaridade com serviços de dados em plataformas como AWS, Azure ou GCP (especialmente serviços de armazenamento e computação).
+-   **Frameworks de Processamento de Dados (Big Data):**
+    * **Apache Spark**
+    * **Apache Flink**
+    * **Apache Hadoop Ecosystem**: HDFS, YARN
 
-### Bancos de Dados e Armazenamento
--   **Bancos de Dados Relacionais**: PostgreSQL, MySQL, SQL Server.
--   **Data Warehouses**: Snowflake, Amazon Redshift, Google BigQuery.
--   **Data Lakes**: Experiência com armazenamento de dados em escala (e.g., S3, ADLS).
+-   **Frameworks de Orquestração e Workflow:**
+    * **Apache Airflow**
+    * **Data Factor (ADF)**
 
-### Orquestração e Versionamento
--   **Apache Airflow** (ou ferramentas similares): Para orquestração e agendamento de fluxos de trabalho de dados.
--   **Git e GitHub**: Para controle de versão de código e colaboração em projetos de dados.
+-   **Frameworks de Transformação e Modelagem de Dados:**
+    * **dbt (data build tool)**
+
+-   **Frameworks de Streaming de Eventos e Mensageria:**
+    * **Apache Kafka**
+
+-   **Formatos de Tabela Abertos (para Data Lakes):**
+    * **Delta Lake**
 
 ## 📈 Próximos Passos
 
--   Explorar e integrar novas ferramentas de DataOps e MLOps.
--   Adicionar projetos focados em streaming de dados (Kafka, Flink).
--   Atualizar o portfólio com novos projetos e insights de dados.
+Meu compromisso com a excelência em Engenharia de Dados me impulsiona a buscar constante aprimoramento, com foco nas seguintes áreas:
+
+-   **Aprofundar a expertise em arquiteturas Lakehouse com Databricks:** Explorar funcionalidades avançadas do Delta Lake e Unity Catalog para governança e otimização de dados.
+-   **Desenvolver pipelines de dados com Delta Live Tables (DLT):** Focar na construção de pipelines mais robustos, testáveis e declarativos no ambiente Databricks.
+-   **Otimizar a performance e custos em workloads Spark no Databricks:** Aplicar técnicas avançadas de tuning e monitoramento para garantir eficiência operacional em larga escala.
+-   **Integrar soluções de MLOps utilizando MLflow no Databricks:** Expandir a atuação para o ciclo de vida de modelos de Machine Learning, desde o treinamento até a implantação.
+-   **Obter certificações Databricks:** Validar o conhecimento técnico e a proficiência nas principais ferramentas da plataforma.
 
 ## 🤝 Contribuições
 
