@@ -2,7 +2,8 @@
 
 Bem-vindo ao meu portfólio! Este repositório apresenta uma coleção dos meus principais projetos e contribuições na área de **Engenharia de Dados**, destacando minhas habilidades, experiência e paixão por transformar dados em valor.
 
-![Screenshot do Portfólio]()
+![Screenshot do Portfólio](![Uploading image.png…]()
+)
 
 ## 🎯 Objetivo
 
