@@ -29,8 +29,8 @@ Contribuições são sempre bem-vindas! Para colaborar:
 
 Entre em contato comigo através das seguintes plataformas:
 
--   **Email**: [seu-email@example.com](mailto:seu-email@example.com)
--   **LinkedIn**: [https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/seu-perfil-linkedin)
+-   **Email**: [gean.dadosbi@gmail.com](mailto:gean.dadosbi@gmail.com)
+-   **LinkedIn**: [https://www.linkedin.com/in/geancarvalhodados](https://www.linkedin.com/in/geancarvalhodados)
 -   **GitHub**: [https://github.com/GCarvalhoDodos](https://github.com/GCarvalhoDodos)
 
 ---
